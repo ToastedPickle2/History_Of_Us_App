@@ -1,0 +1,12 @@
+.navBarContainer {
+  width: 100%;
+  height: 9rem;
+  background-image: linear-gradient(180deg, #0d1b2a, #486070);
+
+  position: fixed;
+  top: 0;
+}
+
+.scrolled {
+  opacity: 80%;
+}
