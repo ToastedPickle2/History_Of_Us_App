@@ -1,0 +1,19 @@
+.personInfoContainer {
+  display: flex;
+  flex-direction: column;
+}
+.aboutWrapper {
+  list-style: none;
+  background-color: #000;
+  padding: 1rem;
+}
+
+.personImg {
+  width: 50%;
+  height: 50%;
+  max-width: 10rem;
+  border-radius: 100px;
+  margin: 0 auto;
+  border: 1px solid #fff;
+  padding-block-start: 1rem;
+}
