@@ -1,0 +1,997 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "3ed7",
+      "cityName": "Banon",
+      "country": "ES",
+      "date": "2024-06-05T03:48:09.371Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.84706035607122",
+        "lng": "-1.2084960937500002"
+      }
+    },
+    {
+      "id": "dd94",
+      "cityName": "Alconaba",
+      "country": "ES",
+      "date": "2024-06-06T20:23:04.070Z",
+      "emoji": "🇪🇸",
+      "notes": "HI",
+      "position": {
+        "lat": "41.72213058512578",
+        "lng": "-2.4169921875000004"
+      }
+    },
+    {
+      "id": "34ba",
+      "cityName": "Valeras, Las",
+      "country": "ES",
+      "date": "2024-09-12T18:52:36.224Z",
+      "emoji": "🇪🇸",
+      "notes": "ni",
+      "position": {
+        "lat": "39.791654835253425",
+        "lng": "-2.1313476562500004"
+      }
+    },
+    {
+      "id": "cdcf",
+      "cityName": "Hayward",
+      "country": "US",
+      "date": "2024-09-12T18:52:53.021Z",
+      "emoji": "🇺🇸",
+      "notes": "I live here\n",
+      "position": {
+        "lat": "37.61423141542417",
+        "lng": "-122.10205078125001"
+      }
+    },
+    {
+      "id": "cee5",
+      "cityName": "Puendeluna",
+      "country": "ES",
+      "date": "2024-09-12T20:52:42.244Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "42.14125958838083",
+        "lng": "-0.7582010796111317"
+      }
+    },
+    {
+      "id": "5a14",
+      "cityName": "Muel",
+      "country": "ES",
+      "date": "2024-09-12T20:54:11.380Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "41.489163376723305",
+        "lng": "-1.1150608047179513"
+      }
+    },
+    {
+      "id": "3ae4",
+      "cityName": "La Adrada",
+      "country": "ES",
+      "date": "2024-09-12T20:54:24.839Z",
+      "emoji": "🇪🇸",
+      "notes": "JI",
+      "position": {
+        "lat": "40.31003254718444",
+        "lng": "-4.631052380903478"
+      }
+    },
+    {
+      "id": "cee1",
+      "cityName": "Majadahonda",
+      "country": "ES",
+      "date": "2024-09-12T21:01:34.069Z",
+      "emoji": "🇪🇸",
+      "notes": "",
+      "position": {
+        "lat": "40.45765831763663",
+        "lng": "-3.9235832538789754"
+      }
+    },
+    {
+      "id": "8022",
+      "cityName": "Northwest Ellis",
+      "country": "US",
+      "date": "2024-09-16T19:16:28.663Z",
+      "emoji": "🇺🇸",
+      "notes": "",
+      "position": {
+        "lat": "36.54715598643371",
+        "lng": "-99.95677021942151"
+      }
+    }
+  ],
+  "peopleApi": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Tobias",
+        "last": "Christensen"
+      },
+      "theme": "War Veterans",
+      "personalPictures": [
+        "https://images.pexels.com/photos/2133/man-person-cute-young.jpg",
+        "https://images.pexels.com/photos/667202/pexels-photo-667202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/773471/pexels-photo-773471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1637859/pexels-photo-1637859.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/531234/pexels-photo-531234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2570060/pexels-photo-2570060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/20967/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      ],
+      "personalInfo": {
+        "lifeEvents": "After becoming a successful software engineer, Tobias founded a tech company focused on sustainability. He’s known for developing innovative apps that address climate change.",
+        "occupation": "Software Engineer",
+        "hobbies": "Hiking, literature, and playing the violin",
+        "current": "continuing his work in tech while raising awareness about sustainability."
+      },
+      "location": {
+        "street": {
+          "number": 8280,
+          "name": "Fredericiagade"
+        },
+        "city": "Esbjerg V",
+        "state": "Sjælland",
+        "country": "Denmark",
+        "postcode": 79364,
+        "coordinates": {
+          "latitude": "55.4876",
+          "longitude": "8.4462"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "tobias.christensen@example.com",
+      "login": {
+        "uuid": "e19d32cc-07d6-49c8-b3f5-edf242a12c47",
+        "username": "yellowfrog927",
+        "password": "chuai",
+        "salt": "aE1AKWF8",
+        "md5": "33be1ca71145245c6dea3c2864b41268",
+        "sha1": "bd747b32e9a2f963beb1fe3b5205c1aed9d35a8b",
+        "sha256": "2e5807135615ddb36d91bcbf9430de3af4bda59542bd6133002f6beca57ef395"
+      },
+      "dob": {
+        "date": "1992-07-07T14:50:42.518Z",
+        "age": 34
+      },
+      "registered": {
+        "date": "2021-07-05T14:18:58.911Z",
+        "age": 3
+      },
+      "phone": "21601724",
+      "cell": "83071597",
+      "id": {
+        "name": "CPR",
+        "value": "070792-6471"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/13.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+      },
+      "nat": "DK"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Urias",
+        "last": "Duarte"
+      },
+      "theme": "Love & Family",
+      "personalPictures": [
+        "https://images.pexels.com/photos/28934193/pexels-photo-28934193/free-photo-of-happy-family-outdoors-in-rio-de-janeiro.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1535775/pexels-photo-1535775.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1191548/pexels-photo-1191548.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/19351519/pexels-photo-19351519/free-photo-of-portrait-of-parents-with-their-daughter-in-black-and-white.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1023234/pexels-photo-1023234.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/29000310/pexels-photo-29000310/free-photo-of-hydroelectric-dam-in-lush-mountainous-region.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "Studied abroad in Tokyo, where he learned Japanese and explored East Asian culture.",
+        "occupation": "Chemical Engineer",
+        "hobbies": "Gardening, reading science fiction, and experimenting with new recipes.",
+        "current": "Lives in Itaquaquecetuba, Brazil and works in a sustainable energy company."
+      },
+      "location": {
+        "street": {
+          "number": 2527,
+          "name": "Rua São Luiz "
+        },
+        "city": "Itaquaquecetuba",
+        "state": "Maranhão",
+        "country": "Brazil",
+        "postcode": 13321,
+        "coordinates": {
+          "latitude": "-23.4879",
+          "longitude": "-46.3499"
+        },
+        "timezone": {
+          "offset": "-4:00",
+          "description": "Atlantic Time (Canada), Caracas, La Paz"
+        }
+      },
+      "email": "urias.duarte@example.com",
+      "login": {
+        "uuid": "0c29fba6-b211-4e64-8c65-02e8820b0683",
+        "username": "orangeduck446",
+        "password": "guido",
+        "salt": "k3FHkaSd",
+        "md5": "950f84cbd45e300270673527a26d73e8",
+        "sha1": "e910a1ab4933973f404d16d49de23f873a04bee8",
+        "sha256": "a0c4ab7bbea6c8fffb96e657e63d319871dc76d0df959b534cccafe6737267da"
+      },
+      "dob": {
+        "date": "1995-05-01T16:58:38.999Z",
+        "age": 29
+      },
+      "registered": {
+        "date": "2014-01-28T07:11:56.891Z",
+        "age": 10
+      },
+      "phone": "(27) 5096-1113",
+      "cell": "(39) 8458-3150",
+      "id": {
+        "name": "CPF",
+        "value": "461.002.859-10"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+      },
+      "nat": "BR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Kuzey",
+        "last": "Elçiboğa"
+      },
+      "theme": "Immigrant Stories",
+      "personalPictures": [
+        "https://images.pexels.com/photos/879478/pexels-photo-879478.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3214994/pexels-photo-3214994.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.unsplash.com/photo-1699743570117-91384b4b0400?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlc3MlMjB0b3VybmFtZW50fGVufDB8fDB8fHww",
+        "https://images.pexels.com/photos/1443527/pexels-photo-1443527.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/28948052/pexels-photo-28948052/free-photo-of-statue-of-lady-justice-on-historic-building.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/135018/pexels-photo-135018.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "Competed in and won a national debate championship in college.",
+        "occupation": "Lawyer",
+        "hobbies": "Playing chess, reading historical biographies, and cycling.",
+        "current": "Lives in Erzincan, Turkey and works at a corporate law firm."
+      },
+      "location": {
+        "street": {
+          "number": 876,
+          "name": "Şehitler Cd"
+        },
+        "city": "Erzincan",
+        "state": "Kırklareli",
+        "country": "Turkey",
+        "postcode": 27710,
+        "coordinates": {
+          "latitude": "39.7491",
+          "longitude": "39.4910"
+        },
+        "timezone": {
+          "offset": "+11:00",
+          "description": "Magadan, Solomon Islands, New Caledonia"
+        }
+      },
+      "email": "kuzey.elciboga@example.com",
+      "login": {
+        "uuid": "993c91eb-2224-44ee-b8d4-390791014d8e",
+        "username": "goldenlion910",
+        "password": "sandrine",
+        "salt": "XIjRApoe",
+        "md5": "459a89cad426dcbec7105e2622cb4728",
+        "sha1": "965d7ca20861e76942ef451004f065d3a4e91915",
+        "sha256": "1098a82ccf719007cb41eed7cdfeb2ef95474814cf48da76c0e93dd19127b9af"
+      },
+      "dob": {
+        "date": "1998-04-08T22:51:09.813Z",
+        "age": 26
+      },
+      "registered": {
+        "date": "2020-05-29T09:15:22.306Z",
+        "age": 4
+      },
+      "phone": "(226)-030-5889",
+      "cell": "(894)-994-6060",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/49.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Monsieur",
+        "first": "Vittorio",
+        "last": "Marie"
+      },
+      "theme": "War Veterans",
+      "personalPictures": [
+        "https://images.pexels.com/photos/2399391/pexels-photo-2399391.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/945471/pexels-photo-945471.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/27402838/pexels-photo-27402838/free-photo-of-a-room-full-of-shoes-and-boxes.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1608966/pexels-photo-1608966.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/27910158/pexels-photo-27910158/free-photo-of-a-woman-sitting-on-a-railing-overlooking-a-river-and-buildings.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/4468990/pexels-photo-4468990.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "Played professional basketball for a European league before retiring at 30.",
+        "occupation": "Sports Analyst",
+        "hobbies": "Playing basketball, mentoring young athletes, and collecting sneakers.",
+        "current": "Lives in Mendrisio, Switzerland, and works as a sports commentator for a local sports network."
+      },
+      "location": {
+        "street": {
+          "number": 3185,
+          "name": "Rue de L'Abbé-Rousselot"
+        },
+        "city": "Mendrisio",
+        "state": "Obwalden",
+        "country": "Switzerland",
+        "postcode": 3763,
+        "coordinates": {
+          "latitude": "47.3769",
+          "longitude": "8.5417"
+        },
+        "timezone": {
+          "offset": "+4:30",
+          "description": "Kabul"
+        }
+      },
+      "email": "vittorio.marie@example.com",
+      "login": {
+        "uuid": "d385f154-73c8-42b6-831c-49efe744a061",
+        "username": "bigmouse700",
+        "password": "records",
+        "salt": "8AjhYxvI",
+        "md5": "18f9a835fde0db186ffa186dd86f0375",
+        "sha1": "c0999ed4de1324979f88e7a564904d1b4b10d56b",
+        "sha256": "c2422a6d841c37290d6da0b5a664e7bf4832025fe5f85c4e32dcd7bf4af952b0"
+      },
+      "dob": {
+        "date": "1974-01-08T00:37:00.776Z",
+        "age": 50
+      },
+      "registered": {
+        "date": "2021-11-27T16:03:33.638Z",
+        "age": 2
+      },
+      "phone": "078 577 36 49",
+      "cell": "075 169 46 61",
+      "id": {
+        "name": "AVS",
+        "value": "756.3031.9753.21"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ewen",
+        "last": "Dupont"
+      },
+      "theme": "Love & Family",
+      "personalPictures": [
+        "https://images.pexels.com/photos/1530259/pexels-photo-1530259.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3540/restaurant-alcohol-bar-drinks.jpg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2014342/pexels-photo-2014342.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/212372/pexels-photo-212372.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2901212/pexels-photo-2901212.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1443867/pexels-photo-1443867.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "After completing his studies in agricultural engineering, Ewen spent two years working on sustainable farming projects in Africa.",
+        "occupation": "Agricultural Engineer",
+        "hobbies": "Gardening, photography, and wine tasting.",
+        "current": "Lives in Angers, France, and works with local farmers to implement eco-friendly agricultural practies."
+      },
+      "location": {
+        "street": {
+          "number": 407,
+          "name": "Rue Abel-Ferry"
+        },
+        "city": "Angers",
+        "state": "Loir-et-Cher",
+        "country": "France",
+        "postcode": 72381,
+        "coordinates": {
+          "latitude": "47.4784",
+          "longitude": "-0.5632"
+        },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "ewen.dupont@example.com",
+      "login": {
+        "uuid": "4330508b-0566-4bef-91ef-ec1d8802b3e9",
+        "username": "whitezebra924",
+        "password": "abbott",
+        "salt": "dvxAT37Z",
+        "md5": "c76fc3d3cc84184d43dbcf2a93e4daa1",
+        "sha1": "8f957a8f06ee24639cf11ba0eca48977e93fcb9e",
+        "sha256": "72ac3bee732c3325c3c8b444e279d75eb86b77c9cc004a9bc408303a7116796f"
+      },
+      "dob": {
+        "date": "1989-04-09T03:36:53.881Z",
+        "age": 35
+      },
+      "registered": {
+        "date": "2003-07-21T06:44:55.569Z",
+        "age": 21
+      },
+      "phone": "03-50-16-29-58",
+      "cell": "06-23-51-70-56",
+      "id": {
+        "name": "INSEE",
+        "value": "1890350714318 97"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Semra",
+        "last": "Behrendt"
+      },
+      "theme": "Immigrant Stories",
+      "personalPictures": [
+        "https://images.pexels.com/photos/109629/pexels-photo-109629.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2043571/pexels-photo-2043571.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3094215/pexels-photo-3094215.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2821823/pexels-photo-2821823.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1002244/pexels-photo-1002244.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/268092/pexels-photo-268092.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "After surviving a major car accident, Semra shifted her career from corporate law to mental health advocacy.",
+        "occupation": "Mental Health Counselor",
+        "hobbies": "Writing, mindfulness meditation, and playing the piano.",
+        "current": "Lives in Saarbrücken, Germany, where she runs a support group for individuals recovering from trauma."
+      },
+      "location": {
+        "street": {
+          "number": 725,
+          "name": "Mittelweg"
+        },
+        "city": "Saarbrücken",
+        "state": "Baden-Württemberg",
+        "country": "Germany",
+        "postcode": 14864,
+        "coordinates": {
+          "latitude": "49.2344",
+          "longitude": "6.9969"
+        },
+        "timezone": {
+          "offset": "-5:00",
+          "description": "Eastern Time (US & Canada), Bogota, Lima"
+        }
+      },
+      "email": "semra.behrendt@example.com",
+      "login": {
+        "uuid": "582b08b9-0b17-462e-bcd0-741ac00de00b",
+        "username": "brownpeacock777",
+        "password": "insertion",
+        "salt": "Z4aaQkg8",
+        "md5": "b0a4e2646a5a766a933d3f06d6d7040f",
+        "sha1": "9b59e1b615056b2dcabad66b0645ee97dddd0cd7",
+        "sha256": "1337454b36e12740844e6c6bc7c99768d19be27b7ca6bf33570aa37521c5a647"
+      },
+      "dob": {
+        "date": "1976-07-06T02:40:46.067Z",
+        "age": 48
+      },
+      "registered": {
+        "date": "2014-03-28T12:53:23.392Z",
+        "age": 10
+      },
+      "phone": "0119-8632548",
+      "cell": "0173-9117516",
+      "id": {
+        "name": "SVNR",
+        "value": "65 050776 B 682"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Hudson",
+        "last": "Gauthier"
+      },
+      "theme": "War Veterans",
+      "personalPictures": [
+        "https://images.pexels.com/photos/2354225/pexels-photo-2354225.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/325944/pexels-photo-325944.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3975266/pexels-photo-3975266.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1630039/pexels-photo-1630039.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/6468954/pexels-photo-6468954.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/34761/old-people-couple-together-connected.jpg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1165125/pexels-photo-1165125.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "Grew up on a family farm in rural Canada and later started a successful organic farming business.",
+        "occupation": "Organic Farmer and Entrepreneur",
+        "hobbies": "Fishing, woodworking, and playing ice hockey.",
+        "current": "Lives in Inwood, Canada, and manages his own farm, promoting sustainable agricultural practices."
+      },
+      "location": {
+        "street": {
+          "number": 9706,
+          "name": "Cedar St"
+        },
+        "city": "Inwood",
+        "state": "Newfoundland and Labrador",
+        "country": "Canada",
+        "postcode": "V8O 2P5",
+        "coordinates": {
+          "latitude": "48.6517",
+          "longitude": "-58.0716"
+        },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "hudson.gauthier@example.com",
+      "login": {
+        "uuid": "f73bc89a-22ec-4a63-97d5-f12c82bb5425",
+        "username": "brownladybug491",
+        "password": "together",
+        "salt": "9oTgPHVx",
+        "md5": "5b329977770d58b56305285ffed443db",
+        "sha1": "37dd9497dbbae6a2d7b709f3302383eb9709451d",
+        "sha256": "d87da06b7bfaa66eb43dfadfe0d1165a6699208846e4d124dc3012763ee5c365"
+      },
+      "dob": {
+        "date": "1955-04-03T01:20:38.449Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2010-03-12T07:38:46.458Z",
+        "age": 14
+      },
+      "phone": "O59 L50-7081",
+      "cell": "L04 E59-4113",
+      "id": {
+        "name": "SIN",
+        "value": "288178759"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/12.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Đura",
+        "last": "Ognjanović"
+      },
+      "theme": "War Veterans",
+      "personalPictures": [
+        "https://images.pexels.com/photos/3958744/pexels-photo-3958744.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.unsplash.com/photo-1611282995262-02add60d8db5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFjY29yZGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+        "https://images.unsplash.com/photo-1711346105302-c5bd0537be8b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmludGFnZSUyMGVsZWN0cm9uaWNzfGVufDB8fDB8fHww",
+        "https://images.pexels.com/photos/9242887/pexels-photo-9242887.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.unsplash.com/photo-1465726395152-3f57db35981a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2VyYmlhfGVufDB8fDB8fHww"
+      ],
+      "personalInfo": {
+        "lifeEvents": "After serving in the Serbian military, Dura returned to his hometown to help modernize the town's infrastructure.",
+        "occupation": "Electrical Engineer",
+        "hobbies": "Restoring vintage electronics, hiking in the countryside, and playing the accordion.",
+        "current": "Lives in Gadžin Han, Serbia, and works on improving energy efficiency and renewable energy projects in the region."
+      },
+      "location": {
+        "street": {
+          "number": 725,
+          "name": "Belućka"
+        },
+        "city": "Gadžin Han",
+        "state": "Prizren",
+        "country": "Serbia",
+        "postcode": 81182,
+        "coordinates": {
+          "latitude": "43.2063",
+          "longitude": "21.5586"
+        },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "dura.ognjanovic@example.com",
+      "login": {
+        "uuid": "cf3753f3-b1a8-4c5e-b762-6189f680c0e2",
+        "username": "purplesnake800",
+        "password": "ventura",
+        "salt": "ThLSvXgZ",
+        "md5": "7eccb2d1782e7456fb8e9f20e18c7663",
+        "sha1": "0a622c881d19ba4c6d565233f639bdeb87f5a62e",
+        "sha256": "e52bc4a02221198a224fda4eb210307d4aee303597fa8a2aa0d54386a60e831c"
+      },
+      "dob": {
+        "date": "2000-06-13T08:23:23.271Z",
+        "age": 24
+      },
+      "registered": {
+        "date": "2017-02-16T23:25:53.818Z",
+        "age": 7
+      },
+      "phone": "010-2382-090",
+      "cell": "064-9152-276",
+      "id": {
+        "name": "SID",
+        "value": "804165676"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+      },
+      "nat": "RS"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Emmi",
+        "last": "Wetteland"
+      },
+      "theme": "Love & Family",
+      "personalPictures": [
+        "https://images.pexels.com/photos/1839919/pexels-photo-1839919.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1693085/pexels-photo-1693085.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.unsplash.com/photo-1658099204158-9f350558ab2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9yayUyMHVuaXZlcnNpdHl8ZW58MHx8MHx8fDA%3D",
+        "https://images.pexels.com/photos/1559825/pexels-photo-1559825.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2261165/pexels-photo-2261165.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "After studying fashion in New York, Emmi returned to Norway to start her own design studio.",
+        "occupation": "Fashion Designer",
+        "hobbies": "Sketching, hiking, and visiting art galleries",
+        "current": "Living in Vestfold, Norway and running her own sustainable fashion brand."
+      },
+      "location": {
+        "street": {
+          "number": 4738,
+          "name": "Utmarkveien"
+        },
+        "city": "Ottersbo",
+        "state": "Vestfold",
+        "country": "Norway",
+        "postcode": "4083",
+        "coordinates": {
+          "latitude": "59.4171",
+          "longitude": "10.4915"
+        },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "emmi.wetteland@example.com",
+      "login": {
+        "uuid": "4fb97e9f-f9fc-4db4-9d83-58d86faebe10",
+        "username": "browngoose605",
+        "password": "lister",
+        "salt": "J8W2StZ1",
+        "md5": "f60e616cffa11d9a7b2cfecb3c8569a9",
+        "sha1": "09e91ce84cc4703e2f1f5cda2fe140c6f2ed1719",
+        "sha256": "59a513b0597a7fddab003c3cc1a6a9aae3e537835345693063253a5274358e99"
+      },
+      "dob": {
+        "date": "1993-01-04T00:56:09.115Z",
+        "age": 31
+      },
+      "registered": {
+        "date": "2013-03-08T06:51:53.206Z",
+        "age": 11
+      },
+      "phone": "86978009",
+      "cell": "49851814",
+      "id": {
+        "name": "FN",
+        "value": "04019334215"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/37.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+      },
+      "nat": "NO"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Monsieur",
+        "first": "Raphaël",
+        "last": "Robert"
+      },
+      "theme": "Immigrant Stories",
+      "personalPictures": [
+        "https://images.pexels.com/photos/452544/pexels-photo-452544.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.unsplash.com/photo-1462926795244-b273f8a5454f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBob3RvZ3JhcGh5fGVufDB8fDB8fHww",
+        "https://images.pexels.com/photos/247522/pexels-photo-247522.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGhpc3Rvcnl8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bGVjdHVyZSUyMGhhbGx8ZW58MHx8MHx8fDA%3D",
+        "https://images.unsplash.com/photo-1596716148130-f95f2b735a92?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG1lZGlldmFsfGVufDB8fDB8fHww",
+        "https://images.unsplash.com/photo-1486916856992-e4db22c8df33?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGhvdG9ncmFwaHl8ZW58MHx8MHx8fDA%3D"
+      ],
+      "personalInfo": {
+        "lifeEvents": "Traveled across Europe as part of a cultural exchange program, which deepened his passion for languages and history.",
+        "occupation": "History Professor",
+        "hobbies": "Hiking in the Swiss Alps, studying ancient civilizations, and photography.",
+        "current": "Lives in Buch, Switzerland, where he teaches European history at a local university, while working on his own research about medieval Switzerland."
+      },
+      "location": {
+        "street": {
+          "number": 235,
+          "name": "Place Paul-Duquaire"
+        },
+        "city": "Buch (Sh)",
+        "state": "Ticino",
+        "country": "Switzerland",
+        "postcode": 8360,
+        "coordinates": {
+          "latitude": "46.2022",
+          "longitude": "6.1457"
+        },
+        "timezone": {
+          "offset": "+7:00",
+          "description": "Bangkok, Hanoi, Jakarta"
+        }
+      },
+      "email": "raphael.robert@example.com",
+      "login": {
+        "uuid": "fd93c175-727c-4dc0-82cd-cf29aedcfa0a",
+        "username": "redbear697",
+        "password": "zhua",
+        "salt": "X0jMP41U",
+        "md5": "5a0833479ef6f35bca814b8c181a1df2",
+        "sha1": "f58832f29a0186826263f88214677edc8567cdba",
+        "sha256": "432731abeff2bf1f79489d99123e36f8dda294aa465cf6ae66c16dee7b18bcc5"
+      },
+      "dob": {
+        "date": "1962-02-13T06:23:07.281Z",
+        "age": 62
+      },
+      "registered": {
+        "date": "2013-05-09T03:23:51.373Z",
+        "age": 11
+      },
+      "phone": "077 646 95 40",
+      "cell": "075 918 84 84",
+      "id": {
+        "name": "AVS",
+        "value": "756.5530.0426.36"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/85.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Ires",
+        "last": "Vervloet"
+      },
+      "theme": "Immigrant Stories",
+      "personalPictures": [
+        "https://images.pexels.com/photos/175753/pexels-photo-175753.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1483778/pexels-photo-1483778.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/731217/pexels-photo-731217.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/56759/pexels-photo-56759.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "Completed a six-month backpacking trip across Southeast Asia, exploring cultures and documenting her travels through photography.",
+        "occupation": "Freelance graphic designer and illustrator",
+        "hobbies": "Traveling, painting, cooking Duth-Indonesian fusion dishes.",
+        "current": "Ires is back in Vijfhuizen, taking on new design projects while working on a personal art exhibit inspired by her travels. She is also planning her next trip to South America."
+      },
+      "location": {
+        "street": {
+          "number": 3995,
+          "name": "Bisschop Eraclesplein"
+        },
+        "city": "Vijfhuizen",
+        "state": "Overijssel",
+        "country": "Netherlands",
+        "postcode": "2537 JI",
+        "coordinates": {
+          "latitude": "52.3702",
+          "longitude": "4.8952"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "ires.vervloet@example.com",
+      "login": {
+        "uuid": "dd7a69f8-710e-42dd-ad79-840173a4bad6",
+        "username": "crazydog174",
+        "password": "smooth",
+        "salt": "qCmCjteO",
+        "md5": "589eafc4a11a7f1575deef655f9a637b",
+        "sha1": "37818bd7ab761e2d6dc92287aef51e4ab96a8937",
+        "sha256": "8de99e7d2e320017e8bfa1f0b9019aa691b927ab5f7964e274ddbe636c113fb4"
+      },
+      "dob": {
+        "date": "1949-12-30T12:29:42.844Z",
+        "age": 74
+      },
+      "registered": {
+        "date": "2012-03-10T18:57:21.255Z",
+        "age": 12
+      },
+      "phone": "(088) 8764468",
+      "cell": "(06) 59739660",
+      "id": {
+        "name": "BSN",
+        "value": "56207738"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/94.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+      },
+      "nat": "NL"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Veera",
+        "last": "Ahonen"
+      },
+      "theme": "Love & Family",
+      "personalPictures": [
+        "https://images.pexels.com/photos/3493651/pexels-photo-3493651.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/877864/pexels-photo-877864.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/1739748/pexels-photo-1739748.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/298217/pexels-photo-298217.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.pexels.com/photos/3654771/pexels-photo-3654771.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "https://images.unsplash.com/photo-1662226699990-3a01a4798e09?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9yYWdpbmd8ZW58MHx8MHx8fDA%3D",
+        "https://images.pexels.com/photos/2311602/pexels-photo-2311602.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "personalInfo": {
+        "lifeEvents": "Recently opened her own bakery in the town center after years of working as a pastry chef in Helsinki.",
+        "occupation": "Bakery owner and pastry chef",
+        "hobbies": "Cross-country skiing, foraging for wild berries, and knitting.",
+        "current": "Veera is focused on growing her new bakery business, known for its traditional Finnish pastries, while also enjoying the start of Finland's ski season. She often spends her free time skiing through the nearby forests and experimenting with new recipes using locally foraged ingredients."
+      },
+      "location": {
+        "street": {
+          "number": 671,
+          "name": "Suvantokatu"
+        },
+        "city": "Hartola",
+        "state": "South Karelia",
+        "country": "Finland",
+        "postcode": 72874,
+        "coordinates": {
+          "latitude": "61.6880",
+          "longitude": "26.0224"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "veera.ahonen@example.com",
+      "login": {
+        "uuid": "162eb347-3724-41ad-8311-7feddb9769e7",
+        "username": "orangemeercat486",
+        "password": "coolhand",
+        "salt": "zDQpIy3a",
+        "md5": "9c7b7fd886afb5d3ec98815fb9f85ca7",
+        "sha1": "e8e1d4c21b5656bfcb26a8b92b5638c5cd05b66b",
+        "sha256": "758e87a454e87a0639f1f819ad9671dba3171e4bda76e8704d8b07da9d815cf3"
+      },
+      "dob": {
+        "date": "1986-02-23T07:45:00.967Z",
+        "age": 38
+      },
+      "registered": {
+        "date": "2020-02-05T00:38:49.053Z",
+        "age": 4
+      },
+      "phone": "05-913-599",
+      "cell": "046-999-90-12",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA781undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+      },
+      "nat": "FI"
+    }
+  ]
+}
